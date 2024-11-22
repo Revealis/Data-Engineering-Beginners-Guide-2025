@@ -27,6 +27,7 @@ I’ll continue to update this repository with more content about data engineeri
 
 ### 📬 Get in Touch
 If you have any questions, suggestions, or want to collaborate, feel free to connect with me:
+- **LinkedIn**: [Mehmetcan ANGÜN](https://www.linkedin.com/in/mehmetcan-angün-28353406-ma)   
 - **Medium:** [@Mehmtcnangn](https://medium.com/@Mehmtcnangn)
 - **Email:** Mehmtcnangn28@hotmail.com
 
