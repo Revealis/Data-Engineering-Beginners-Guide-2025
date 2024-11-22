@@ -32,10 +32,5 @@ If you have any questions, suggestions, or want to collaborate, feel free to con
 
 ---
 
-### 📄 License
-This repository and its content are licensed under the [MIT License](LICENSE).
-
----
-
 **Happy Learning! 🌟**
 
