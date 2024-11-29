@@ -20,6 +20,11 @@ Welcome to my GitHub repository dedicated to helping beginners step into the fas
 
 ---
 
+### 3. [Python IDEs for Data Engineers: Which One is Right for You?](https://medium.com/@Mehmtcnangn/python-ides-for-data-engineers-which-one-is-right-for-you-697dedcbad73)
+- A comprehensive guide to selecting the best Python IDE for data engineers.
+- Covers popular IDEs like PyCharm, VS Code, Jupyter Notebook, and more.
+- Discusses the pros and cons of each IDE to help you choose the right one for your workflow.
+
 ## 🚀 Stay Tuned
 I’ll continue to update this repository with more content about data engineering tools, techniques, and best practices. Feel free to star ⭐ this repository and follow me on [Medium](https://medium.com/@Mehmtcnangn) to stay updated with the latest articles.
 
