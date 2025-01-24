@@ -25,6 +25,11 @@ Welcome to my GitHub repository dedicated to helping beginners step into the fas
 - Covers popular IDEs like PyCharm, VS Code, Jupyter Notebook, and more.
 - Discusses the pros and cons of each IDE to help you choose the right one for your workflow.
 
+### 4. [Python Basics for Absolute Beginners](https://medium.com/@Mehmtcnangn/python-basics-for-absolute-beginners-505f6456a008)
+- A beginner-friendly guide to learning Python from scratch.
+- Covers variables, data types, lists, dictionaries, functions, conditional statements, loops, and more.
+- Includes detailed explanations and practical examples to help readers start coding confidently
+
 ## 🚀 Stay Tuned
 I’ll continue to update this repository with more content about data engineering tools, techniques, and best practices. Feel free to star ⭐ this repository and follow me on [Medium](https://medium.com/@Mehmtcnangn) to stay updated with the latest articles.
 
