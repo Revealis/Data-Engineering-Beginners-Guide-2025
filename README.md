@@ -34,7 +34,7 @@ Welcome to my GitHub repository dedicated to helping beginners step into the fas
 
 ---
 
-### 5. [Introduction to Python Programming Language: Basic Concepts and Examples]([https://medium.com/@Mehmtcnangn/python-basics-for-absolute-beginners-505f6456a008](https://medium.com/@Mehmtcnangn/introduction-to-python-programming-language-basic-concepts-and-examples-ff9caca56c03))
+### 5. [Introduction to Python Programming Language: Basic Concepts and Examples](https://medium.com/@Mehmtcnangn/introduction-to-python-programming-language-basic-concepts-and-examples-ff9caca56c03)
 - A detailed introduction to Python programming for beginners.
 - Covers fundamental concepts like variables, data types, arithmetic operations, control structures, and more.
 - Includes practical examples and exercises to reinforce learning.
